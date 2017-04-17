@@ -1,0 +1,8 @@
+{
+  "name": "json-stringify-safe-es",
+  "version": "0.0.1",
+  "description": "https://github.com/isaacs/json-stringify-safe",
+  "main": "src/index.js",
+  "author": "Toran Billups (https://github.com/toranb)",
+  "license": "MIT"
+}
